@@ -10,7 +10,7 @@
 # Hasil Template
 ![image](https://github.com/NaafiulRazzaqW/BelajarJavaScriptDay1/assets/88121499/e0bafead-ff72-4945-b4fa-6f7697e7212f)
 
-#Hasil Default Parameter
+# Hasil Default Parameter
 ![image](https://github.com/NaafiulRazzaqW/BelajarJavaScriptDay1/assets/88121499/a45dd5ec-ceba-4dd8-9114-d4c5ecf7a9ea)
 
 # Hasil Arrow Function
