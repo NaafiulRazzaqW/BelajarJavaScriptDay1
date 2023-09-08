@@ -2,7 +2,8 @@
 
 # Hasil Const
 ![const](https://github.com/NaafiulRazzaqW/BelajarJavaScriptDay1/assets/88121499/e4e46e3d-f23e-4db3-8c3f-58678f7095ea)
-
+pemahaman saya tentang const ialah const bertujuan mendeklarasikan sebuah variable yang hanya bisa di isi sebanyak 1 kali
+dan tidak akan bisa di isi lagi
 
 # Hasil Let
 ![image](https://github.com/NaafiulRazzaqW/BelajarJavaScriptDay1/assets/88121499/c3b658ce-73ee-48e8-a2e1-9f4bb0604729)
