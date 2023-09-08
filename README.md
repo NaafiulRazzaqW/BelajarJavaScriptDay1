@@ -1,0 +1,2 @@
+# BelajarJavaScriptDay1
+
